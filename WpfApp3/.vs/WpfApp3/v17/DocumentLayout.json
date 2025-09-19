@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ForHW-main\\WpfApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A98839BC-FA12-4B32-8EAD-2E7034D28C6D}|WpfApp3\\WpfApp3.csproj|c:\\users\\pc\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\forhw-main\\wpfapp3\\wpfapp3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A98839BC-FA12-4B32-8EAD-2E7034D28C6D}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A9D7F2-C2DF-456A-979E-B79AF7453272}|BLL\\BLL.csproj|c:\\users\\pc\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\forhw-main\\wpfapp3\\bll\\weatherapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A9D7F2-C2DF-456A-979E-B79AF7453272}|BLL\\BLL.csproj|solutionrelative:bll\\weatherapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A9D7F2-C2DF-456A-979E-B79AF7453272}|BLL\\BLL.csproj|c:\\users\\pc\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\forhw-main\\wpfapp3\\bll\\cityapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A9D7F2-C2DF-456A-979E-B79AF7453272}|BLL\\BLL.csproj|solutionrelative:bll\\cityapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A9D7F2-C2DF-456A-979E-B79AF7453272}|BLL\\BLL.csproj|c:\\users\\pc\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\forhw-main\\wpfapp3\\bll\\icityapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A9D7F2-C2DF-456A-979E-B79AF7453272}|BLL\\BLL.csproj|solutionrelative:bll\\icityapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A9D7F2-C2DF-456A-979E-B79AF7453272}|BLL\\BLL.csproj|c:\\users\\pc\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\forhw-main\\wpfapp3\\bll\\responses\\temperature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A9D7F2-C2DF-456A-979E-B79AF7453272}|BLL\\BLL.csproj|solutionrelative:bll\\responses\\temperature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A9D7F2-C2DF-456A-979E-B79AF7453272}|BLL\\BLL.csproj|c:\\users\\pc\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\forhw-main\\wpfapp3\\bll\\responses\\wind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A9D7F2-C2DF-456A-979E-B79AF7453272}|BLL\\BLL.csproj|solutionrelative:bll\\responses\\wind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A9D7F2-C2DF-456A-979E-B79AF7453272}|BLL\\BLL.csproj|c:\\users\\pc\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\forhw-main\\wpfapp3\\bll\\responses\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A9D7F2-C2DF-456A-979E-B79AF7453272}|BLL\\BLL.csproj|solutionrelative:bll\\responses\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98839BC-FA12-4B32-8EAD-2E7034D28C6D}|WpfApp3\\WpfApp3.csproj|c:\\users\\pc\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\forhw-main\\wpfapp3\\wpfapp3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98839BC-FA12-4B32-8EAD-2E7034D28C6D}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A9D7F2-C2DF-456A-979E-B79AF7453272}|BLL\\BLL.csproj|c:\\users\\pc\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\forhw-main\\wpfapp3\\bll\\iweatherapiserice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A9D7F2-C2DF-456A-979E-B79AF7453272}|BLL\\BLL.csproj|solutionrelative:bll\\iweatherapiserice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98839BC-FA12-4B32-8EAD-2E7034D28C6D}|WpfApp3\\WpfApp3.csproj|c:\\users\\pc\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\forhw-main\\wpfapp3\\wpfapp3\\wpfapp3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A98839BC-FA12-4B32-8EAD-2E7034D28C6D}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\wpfapp3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D942D67-AA9F-4EE5-9F92-10740117DB6D}|DLL\\DLL.csproj|c:\\users\\pc\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\forhw-main\\wpfapp3\\dll\\dll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D942D67-AA9F-4EE5-9F92-10740117DB6D}|DLL\\DLL.csproj|solutionrelative:dll\\dll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A9D7F2-C2DF-456A-979E-B79AF7453272}|BLL\\BLL.csproj|c:\\users\\pc\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\forhw-main\\wpfapp3\\bll\\responses\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A9D7F2-C2DF-456A-979E-B79AF7453272}|BLL\\BLL.csproj|solutionrelative:bll\\responses\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A9D7F2-C2DF-456A-979E-B79AF7453272}|BLL\\BLL.csproj|c:\\users\\pc\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\forhw-main\\wpfapp3\\bll\\responses\\cityname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A9D7F2-C2DF-456A-979E-B79AF7453272}|BLL\\BLL.csproj|solutionrelative:bll\\responses\\cityname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 697,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CityApiService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ForHW-main\\WpfApp3\\BLL\\CityApiService.cs",
+              "RelativeDocumentMoniker": "BLL\\CityApiService.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ForHW-main\\WpfApp3\\BLL\\CityApiService.cs",
+              "RelativeToolTip": "BLL\\CityApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T16:23:26.645Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherApiService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ForHW-main\\WpfApp3\\BLL\\WeatherApiService.cs",
+              "RelativeDocumentMoniker": "BLL\\WeatherApiService.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ForHW-main\\WpfApp3\\BLL\\WeatherApiService.cs",
+              "RelativeToolTip": "BLL\\WeatherApiService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T15:01:18.481Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Wind.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ForHW-main\\WpfApp3\\BLL\\Responses\\Wind.cs",
+              "RelativeDocumentMoniker": "BLL\\Responses\\Wind.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ForHW-main\\WpfApp3\\BLL\\Responses\\Wind.cs",
+              "RelativeToolTip": "BLL\\Responses\\Wind.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T14:59:03.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Temperature.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ForHW-main\\WpfApp3\\BLL\\Responses\\Temperature.cs",
+              "RelativeDocumentMoniker": "BLL\\Responses\\Temperature.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ForHW-main\\WpfApp3\\BLL\\Responses\\Temperature.cs",
+              "RelativeToolTip": "BLL\\Responses\\Temperature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T14:59:00.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IWeatherApiSerice.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ForHW-main\\WpfApp3\\BLL\\IWeatherApiSerice.cs",
+              "RelativeDocumentMoniker": "BLL\\IWeatherApiSerice.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ForHW-main\\WpfApp3\\BLL\\IWeatherApiSerice.cs",
+              "RelativeToolTip": "BLL\\IWeatherApiSerice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T14:52:53.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WpfApp3",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ForHW-main\\WpfApp3\\WpfApp3\\WpfApp3.csproj",
+              "RelativeDocumentMoniker": "WpfApp3\\WpfApp3.csproj",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ForHW-main\\WpfApp3\\WpfApp3\\WpfApp3.csproj",
+              "RelativeToolTip": "WpfApp3\\WpfApp3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-19T14:48:53.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DLL",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ForHW-main\\WpfApp3\\DLL\\DLL.csproj",
+              "RelativeDocumentMoniker": "DLL\\DLL.csproj",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ForHW-main\\WpfApp3\\DLL\\DLL.csproj",
+              "RelativeToolTip": "DLL\\DLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-19T14:48:46.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherData.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ForHW-main\\WpfApp3\\BLL\\Responses\\WeatherData.cs",
+              "RelativeDocumentMoniker": "BLL\\Responses\\WeatherData.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ForHW-main\\WpfApp3\\BLL\\Responses\\WeatherData.cs",
+              "RelativeToolTip": "BLL\\Responses\\WeatherData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T18:39:03.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CityName.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ForHW-main\\WpfApp3\\BLL\\Responses\\CityName.cs",
+              "RelativeDocumentMoniker": "BLL\\Responses\\CityName.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ForHW-main\\WpfApp3\\BLL\\Responses\\CityName.cs",
+              "RelativeToolTip": "BLL\\Responses\\CityName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T18:37:47.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ForHW-main\\WpfApp3\\BLL\\Responses\\City.cs",
+              "RelativeDocumentMoniker": "BLL\\Responses\\City.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ForHW-main\\WpfApp3\\BLL\\Responses\\City.cs",
+              "RelativeToolTip": "BLL\\Responses\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T18:18:10.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICityApiService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ForHW-main\\WpfApp3\\BLL\\ICityApiService.cs",
+              "RelativeDocumentMoniker": "BLL\\ICityApiService.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ForHW-main\\WpfApp3\\BLL\\ICityApiService.cs",
+              "RelativeToolTip": "BLL\\ICityApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T17:21:04.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ForHW-main\\WpfApp3\\WpfApp3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp3\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ForHW-main\\WpfApp3\\WpfApp3\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-11T10:25:51.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ForHW-main\\WpfApp3\\WpfApp3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ForHW-main\\WpfApp3\\WpfApp3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp3\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAEsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T10:25:47.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
