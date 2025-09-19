@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\hw4_la\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9481A746-606B-4A91-BACF-83F2FE1C24A1}|hw4_la\\hw4_la.csproj|c:\\users\\pc\\source\\repos\\hw4_la\\hw4_la\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9481A746-606B-4A91-BACF-83F2FE1C24A1}|hw4_la\\hw4_la.csproj|solutionrelative:hw4_la\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9481A746-606B-4A91-BACF-83F2FE1C24A1}|hw4_la\\hw4_la.csproj|c:\\users\\pc\\source\\repos\\hw4_la\\hw4_la\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9481A746-606B-4A91-BACF-83F2FE1C24A1}|hw4_la\\hw4_la.csproj|solutionrelative:hw4_la\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9481A746-606B-4A91-BACF-83F2FE1C24A1}|hw4_la\\hw4_la.csproj|c:\\users\\pc\\source\\repos\\hw4_la\\hw4_la\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9481A746-606B-4A91-BACF-83F2FE1C24A1}|hw4_la\\hw4_la.csproj|solutionrelative:hw4_la\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9481A746-606B-4A91-BACF-83F2FE1C24A1}|hw4_la\\hw4_la.csproj|c:\\users\\pc\\source\\repos\\hw4_la\\hw4_la\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9481A746-606B-4A91-BACF-83F2FE1C24A1}|hw4_la\\hw4_la.csproj|solutionrelative:hw4_la\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9481A746-606B-4A91-BACF-83F2FE1C24A1}|hw4_la\\hw4_la.csproj|c:\\users\\pc\\source\\repos\\hw4_la\\hw4_la\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9481A746-606B-4A91-BACF-83F2FE1C24A1}|hw4_la\\hw4_la.csproj|solutionrelative:hw4_la\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 697,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\hw4_la\\hw4_la\\Services\\ClientService.cs",
+              "RelativeDocumentMoniker": "hw4_la\\Services\\ClientService.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\hw4_la\\hw4_la\\Services\\ClientService.cs",
+              "RelativeToolTip": "hw4_la\\Services\\ClientService.cs",
+              "ViewState": "AgIAABEAAAAAzMzMzMwmwBYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T15:57:33.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\hw4_la\\hw4_la\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "hw4_la\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\hw4_la\\hw4_la\\Models\\Address.cs",
+              "RelativeToolTip": "hw4_la\\Models\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T15:54:49.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\hw4_la\\hw4_la\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "hw4_la\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\hw4_la\\hw4_la\\Models\\Client.cs",
+              "RelativeToolTip": "hw4_la\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T15:54:22.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IClientService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\hw4_la\\hw4_la\\Interfaces\\IClientService.cs",
+              "RelativeDocumentMoniker": "hw4_la\\Interfaces\\IClientService.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\hw4_la\\hw4_la\\Interfaces\\IClientService.cs",
+              "RelativeToolTip": "hw4_la\\Interfaces\\IClientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T15:53:37.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\hw4_la\\hw4_la\\Program.cs",
+              "RelativeDocumentMoniker": "hw4_la\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\hw4_la\\hw4_la\\Program.cs",
+              "RelativeToolTip": "hw4_la\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAEQAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T15:42:27.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
