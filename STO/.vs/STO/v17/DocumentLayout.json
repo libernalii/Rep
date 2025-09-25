@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\STO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC5575D-A698-4279-98F9-4F3F5539109C}|DLL\\DLL.csproj|c:\\users\\pc\\source\\repos\\sto\\dll\\interfaces\\istorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC5575D-A698-4279-98F9-4F3F5539109C}|DLL\\DLL.csproj|solutionrelative:dll\\interfaces\\istorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC5575D-A698-4279-98F9-4F3F5539109C}|DLL\\DLL.csproj|c:\\users\\pc\\source\\repos\\sto\\dll\\repositories\\storepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC5575D-A698-4279-98F9-4F3F5539109C}|DLL\\DLL.csproj|solutionrelative:dll\\repositories\\storepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A686633-44A7-4FA6-B941-DBDEF70B280F}|STO\\STO.csproj|c:\\users\\pc\\source\\repos\\sto\\sto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A686633-44A7-4FA6-B941-DBDEF70B280F}|STO\\STO.csproj|solutionrelative:sto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC5575D-A698-4279-98F9-4F3F5539109C}|DLL\\DLL.csproj|c:\\users\\pc\\source\\repos\\sto\\dll\\stocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC5575D-A698-4279-98F9-4F3F5539109C}|DLL\\DLL.csproj|solutionrelative:dll\\stocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC5575D-A698-4279-98F9-4F3F5539109C}|DLL\\DLL.csproj|c:\\users\\pc\\source\\repos\\sto\\dll\\migrations\\20250925154850_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC5575D-A698-4279-98F9-4F3F5539109C}|DLL\\DLL.csproj|solutionrelative:dll\\migrations\\20250925154850_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC5575D-A698-4279-98F9-4F3F5539109C}|DLL\\DLL.csproj|c:\\users\\pc\\source\\repos\\sto\\dll\\migrations\\stocontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC5575D-A698-4279-98F9-4F3F5539109C}|DLL\\DLL.csproj|solutionrelative:dll\\migrations\\stocontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC5575D-A698-4279-98F9-4F3F5539109C}|DLL\\DLL.csproj|c:\\users\\pc\\source\\repos\\sto\\dll\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC5575D-A698-4279-98F9-4F3F5539109C}|DLL\\DLL.csproj|solutionrelative:dll\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 697,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250925154850_Init.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\STO\\DLL\\Migrations\\20250925154850_Init.cs",
+              "RelativeDocumentMoniker": "DLL\\Migrations\\20250925154850_Init.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\STO\\DLL\\Migrations\\20250925154850_Init.cs",
+              "RelativeToolTip": "DLL\\Migrations\\20250925154850_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:48:50.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\STO\\DLL\\Repositories\\StoRepository.cs",
+              "RelativeDocumentMoniker": "DLL\\Repositories\\StoRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\STO\\DLL\\Repositories\\StoRepository.cs",
+              "RelativeToolTip": "DLL\\Repositories\\StoRepository.cs",
+              "ViewState": "AgIAACsAAACgmZmZmZk1wD8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:10:16.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\STO\\STO\\Program.cs",
+              "RelativeDocumentMoniker": "STO\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\STO\\STO\\Program.cs",
+              "RelativeToolTip": "STO\\Program.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAI4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:37:33.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "STOContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\STO\\DLL\\STOContext.cs",
+              "RelativeDocumentMoniker": "DLL\\STOContext.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\STO\\DLL\\STOContext.cs",
+              "RelativeToolTip": "DLL\\STOContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABkAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:49:10.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IStoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\STO\\DLL\\Interfaces\\IStoRepository.cs",
+              "RelativeDocumentMoniker": "DLL\\Interfaces\\IStoRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\STO\\DLL\\Interfaces\\IStoRepository.cs",
+              "RelativeToolTip": "DLL\\Interfaces\\IStoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:07:45.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "STOContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\STO\\DLL\\Migrations\\STOContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DLL\\Migrations\\STOContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\STO\\DLL\\Migrations\\STOContextModelSnapshot.cs",
+              "RelativeToolTip": "DLL\\Migrations\\STOContextModelSnapshot.cs",
+              "ViewState": "AgIAACYAAACANDMzMzMZwDIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:49:03.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\STO\\DLL\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "DLL\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\STO\\DLL\\Models\\Car.cs",
+              "RelativeToolTip": "DLL\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:48:24.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
