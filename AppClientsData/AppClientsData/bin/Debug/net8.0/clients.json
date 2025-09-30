@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "Nazarius",
+    "Surname": "Pavliv",
+    "BDay": "2009-02-27T00:00:00",
+    "address": {
+      "City": "Lviv",
+      "Street": "Franko",
+      "Build": 33,
+      "Flat": null
+    }
+  },
+  {
+    "Name": "Yaryna",
+    "Surname": "Boiko",
+    "BDay": "2003-08-16T00:00:00",
+    "address": {
+      "City": "Ternopil",
+      "Street": "L.Ukrainka",
+      "Build": 18,
+      "Flat": 7
+    }
+  }
+]

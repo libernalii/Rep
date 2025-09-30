@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\AppClientsData\AppClientsData\bin\Debug\net8.0\AppClientsData.exe
+C:\Users\PC\source\repos\AppClientsData\AppClientsData\bin\Debug\net8.0\AppClientsData.deps.json
+C:\Users\PC\source\repos\AppClientsData\AppClientsData\bin\Debug\net8.0\AppClientsData.runtimeconfig.json
+C:\Users\PC\source\repos\AppClientsData\AppClientsData\bin\Debug\net8.0\AppClientsData.dll
+C:\Users\PC\source\repos\AppClientsData\AppClientsData\bin\Debug\net8.0\AppClientsData.pdb
+C:\Users\PC\source\repos\AppClientsData\AppClientsData\obj\Debug\net8.0\AppClientsData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\AppClientsData\AppClientsData\obj\Debug\net8.0\AppClientsData.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\AppClientsData\AppClientsData\obj\Debug\net8.0\AppClientsData.AssemblyInfo.cs
+C:\Users\PC\source\repos\AppClientsData\AppClientsData\obj\Debug\net8.0\AppClientsData.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\AppClientsData\AppClientsData\obj\Debug\net8.0\AppClientsData.dll
+C:\Users\PC\source\repos\AppClientsData\AppClientsData\obj\Debug\net8.0\refint\AppClientsData.dll
+C:\Users\PC\source\repos\AppClientsData\AppClientsData\obj\Debug\net8.0\AppClientsData.pdb
+C:\Users\PC\source\repos\AppClientsData\AppClientsData\obj\Debug\net8.0\AppClientsData.genruntimeconfig.cache
+C:\Users\PC\source\repos\AppClientsData\AppClientsData\obj\Debug\net8.0\ref\AppClientsData.dll
