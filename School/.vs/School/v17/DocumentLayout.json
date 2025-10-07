@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\School\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A012AC-2D40-4CCD-8F38-7F17897E7389}|DLL\\DLL.csproj|c:\\users\\pc\\source\\repos\\school\\dll\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A012AC-2D40-4CCD-8F38-7F17897E7389}|DLL\\DLL.csproj|solutionrelative:dll\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461BF598-0583-44B5-AC9D-5484042DC73D}|School\\School.csproj|c:\\users\\pc\\source\\repos\\school\\school\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461BF598-0583-44B5-AC9D-5484042DC73D}|School\\School.csproj|solutionrelative:school\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A012AC-2D40-4CCD-8F38-7F17897E7389}|DLL\\DLL.csproj|c:\\users\\pc\\source\\repos\\school\\dll\\repositories\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A012AC-2D40-4CCD-8F38-7F17897E7389}|DLL\\DLL.csproj|solutionrelative:dll\\repositories\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C01626-4F5B-411F-9542-4A3A458CE2E6}|BLL\\BLL.csproj|c:\\users\\pc\\source\\repos\\school\\bll\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C01626-4F5B-411F-9542-4A3A458CE2E6}|BLL\\BLL.csproj|solutionrelative:bll\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A012AC-2D40-4CCD-8F38-7F17897E7389}|DLL\\DLL.csproj|c:\\users\\pc\\source\\repos\\school\\dll\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A012AC-2D40-4CCD-8F38-7F17897E7389}|DLL\\DLL.csproj|solutionrelative:dll\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A012AC-2D40-4CCD-8F38-7F17897E7389}|DLL\\DLL.csproj|c:\\users\\pc\\source\\repos\\school\\dll\\schoolcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A012AC-2D40-4CCD-8F38-7F17897E7389}|DLL\\DLL.csproj|solutionrelative:dll\\schoolcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C01626-4F5B-411F-9542-4A3A458CE2E6}|BLL\\BLL.csproj|c:\\users\\pc\\source\\repos\\school\\bll\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C01626-4F5B-411F-9542-4A3A458CE2E6}|BLL\\BLL.csproj|solutionrelative:bll\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 697,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\School\\School\\Program.cs",
+              "RelativeDocumentMoniker": "School\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\School\\School\\Program.cs",
+              "RelativeToolTip": "School\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T15:25:46.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\School\\DLL\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "DLL\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\School\\DLL\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "DLL\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAABIAAAAAMjMzMzPzvxgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T15:34:05.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\School\\DLL\\Repositories\\TeacherRepository.cs",
+              "RelativeDocumentMoniker": "DLL\\Repositories\\TeacherRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\School\\DLL\\Repositories\\TeacherRepository.cs",
+              "RelativeToolTip": "DLL\\Repositories\\TeacherRepository.cs",
+              "ViewState": "AgIAAA4AAAAA/v////8PwCoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T19:02:34.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\School\\BLL\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\School\\BLL\\Models\\Teacher.cs",
+              "RelativeToolTip": "BLL\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T15:37:29.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SchoolContex.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\School\\DLL\\SchoolContex.cs",
+              "RelativeDocumentMoniker": "DLL\\SchoolContex.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\School\\DLL\\SchoolContex.cs",
+              "RelativeToolTip": "DLL\\SchoolContex.cs",
+              "ViewState": "AgIAAAwAAACAmpmZmZklwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T15:40:03.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\School\\DLL\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "DLL\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\School\\DLL\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "DLL\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T15:31:50.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\School\\BLL\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\School\\BLL\\Models\\Student.cs",
+              "RelativeToolTip": "BLL\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T15:35:44.616Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\School\DLL\bin\Debug\net8.0\DLL.deps.json
+C:\Users\PC\source\repos\School\DLL\bin\Debug\net8.0\DLL.runtimeconfig.json
+C:\Users\PC\source\repos\School\DLL\bin\Debug\net8.0\DLL.dll
+C:\Users\PC\source\repos\School\DLL\bin\Debug\net8.0\DLL.pdb
+C:\Users\PC\source\repos\School\DLL\bin\Debug\net8.0\BLL.dll
+C:\Users\PC\source\repos\School\DLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\PC\source\repos\School\DLL\obj\Debug\net8.0\DLL.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\School\DLL\obj\Debug\net8.0\DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\School\DLL\obj\Debug\net8.0\DLL.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\School\DLL\obj\Debug\net8.0\DLL.AssemblyInfo.cs
+C:\Users\PC\source\repos\School\DLL\obj\Debug\net8.0\DLL.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\School\DLL\obj\Debug\net8.0\DLL.csproj.Up2Date
+C:\Users\PC\source\repos\School\DLL\obj\Debug\net8.0\DLL.dll
+C:\Users\PC\source\repos\School\DLL\obj\Debug\net8.0\refint\DLL.dll
+C:\Users\PC\source\repos\School\DLL\obj\Debug\net8.0\DLL.pdb
+C:\Users\PC\source\repos\School\DLL\obj\Debug\net8.0\DLL.genruntimeconfig.cache
+C:\Users\PC\source\repos\School\DLL\obj\Debug\net8.0\ref\DLL.dll
